@@ -1,0 +1,8 @@
+# dir to ignore 
+data/
+test/
+
+# cache files to ignore
+*.pyc
+.cache/
+__pycache__/
